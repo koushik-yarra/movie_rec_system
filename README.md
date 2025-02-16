@@ -224,11 +224,3 @@ recommend('Avatar', new_movies_df, similarity)``
 -   **TMDb API Key**: Required to fetch movie posters.
 
 
-## Future Enhancements
-
-1.  **Collaborative Filtering**: Combine with collaborative filtering for better recommendations.
-2.  **Improved NLP**: Implement lemmatization and additional preprocessing.
-3.  **Enhanced UI**: Add more filtering options, such as genre-based recommendations.
-
--   **GitHub Repository**: [Movie Recommendation System](https://github.com/yash1th-yerra/Movie-Recommendation-System)
--   **Website**: [Live Demo](https://movie-recc-sys.streamlit.app/)
